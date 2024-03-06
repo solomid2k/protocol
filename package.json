@@ -1,11 +1,11 @@
 {
   "author": {
-    "email": "contact@wuhkuh.com",
-    "name": "Wouter Klijn",
-    "url": "https://wuhkuh.com"
+    "email": "sousanatan608@gmail.com",
+    "name": "Jake",
+    "url": "https://github.com/solomid2k"
   },
   "bugs": {
-    "url": "https://github.com/wuhkuh/protocol/issues"
+    "url": "https://github.com/solomid2k"
   },
   "description": "Protocols for Node.JS",
   "devDependencies": {
@@ -19,7 +19,7 @@
     "node": ">= 6.0.0"
   },
   "engineStrict": true,
-  "homepage": "https://github.com/wuhkuh/protocol#readme",
+  "homepage": "https://github.com/solomid2k,
   "keywords": [
     "universal",
     "network",
@@ -33,7 +33,7 @@
   "pre-commit": "test",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wuhkuh/protocol.git"
+    "url": "https://github.com/solomid2k"
   },
   "scripts": {
     "bench": "node benchmark/benchmark.js",
